@@ -1,0 +1,30 @@
+.parent {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 20px; 
+  } 
+ .auto {
+    width: auto;
+ }
+
+
+body{
+    background: none;
+    border: solid;
+    color: black;
+    outline: 5px;
+    
+    
+   } 
+     
+ 
+ 
+
+body { 
+    text-align: center;
+    padding: 20% 10%;
+    align-items: center;
+    box-sizing:  3px black;
+}
